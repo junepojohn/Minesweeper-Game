@@ -1,0 +1,27 @@
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.exe.config
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper_Canvas.Form1.resources
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper_Canvas.Properties.Resources.resources
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.exe
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.pdb
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.exe
+C:\Users\Nathan\Desktop\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.pdb
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.exe.config
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.exe
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.pdb
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.exe
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.pdb
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper_Canvas.Form1.resources
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper_Canvas.Properties.Resources.resources
+C:\Users\Nathan\Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.csproj.GenerateResource.Cache
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.exe.config
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.exe
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.pdb
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.exe
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\bin\Debug\Minesweeper Canvas.pdb
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.csprojResolveAssemblyReference.cache
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper_Canvas.Properties.Resources.resources
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper Canvas.csproj.GenerateResource.Cache
+A:\Second Desktop\Compilation of Random Programming stuff\Minesweeper\Minesweeper Canvas\Minesweeper Canvas\obj\Debug\Minesweeper_Canvas.Minesweeper.resources
